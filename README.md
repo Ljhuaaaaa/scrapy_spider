@@ -1,2 +1,2 @@
 # scrapy_spider
-A simple scrapy crawler about monalisa products
+A simple scrapy about monalisa products
